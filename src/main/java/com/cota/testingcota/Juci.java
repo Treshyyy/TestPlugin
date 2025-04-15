@@ -4,6 +4,6 @@ import org.bukkit.Bukkit;
 
 public class Juci {
     public void szia(){
-        Bukkit.broadcastMessage("string");
+        Bukkit.broadcastMessage("heloo");
     }
 }
