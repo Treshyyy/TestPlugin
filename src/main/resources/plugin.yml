@@ -1,0 +1,4 @@
+name: TestingCota
+version: '${project.version}'
+main: com.cota.testingcota.TestingCota
+api-version: '1.21'
